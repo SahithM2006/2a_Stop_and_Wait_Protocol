@@ -64,8 +64,7 @@ while True:
 ## OUTPUT
 ## SERVER:
 
-<img width="843" height="221" alt="Screenshot 2025-10-28 114513" src="https://github.com/user-
-attachments/assets/8c7a04e9-22cb-491d-9415-ef9971ab6cd9" />
+<img width="843" height="221" alt="Screenshot 2025-10-28 114513" src="https://github.com/user-attachments/assets/900473ce-5de8-480d-8f46-89ae1eb699c6" />
 
 ## Client:
 
